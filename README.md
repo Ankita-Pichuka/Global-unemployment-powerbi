@@ -35,3 +35,10 @@ This Power BI dashboard effectively illustrates how unemployment varies across t
 ## 📈 Source
 - World Bank: [Unemployment, total (% of total labor force)](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
 
+## 📊 Project Credits
+
+🧑‍💻 **Project By**: Ankita Pichuka  
+🎓 **Graduate Student – MS in Analytics, Northeastern University**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ankita-pichuka)
+
+
